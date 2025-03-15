@@ -13,5 +13,7 @@ $number = 20; // Change this value to test with other numbers
 
 // Check and display whether the number is odd or even
 $result = checkOddOrEven($number);
-echo $result;
+echo $result.".";
+
+// here it will display "Number is Even.";
 ?>
